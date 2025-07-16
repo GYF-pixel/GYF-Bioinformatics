@@ -2,8 +2,9 @@
 
 RAS mutations are the most prevalent oncogenic drivers in human cancers, yet their progression to malignancy remains poorly understood due to gene redundancy, tumor microenvironment complexity, and the lack of scalable in vivo models. While cancer genome atlases have identified numerous potential oncogenic mutation combinations, few genetic interactions have been validated in vivo, highlighting the need for innovative platforms to comprehensively dissect the tumor dynamics and complexity. Here, we present the Drosophila Atlas of Ras-driven Tumors (ART-D), a scalable and integrative framework leveraging ten Drosophila tumor models to systematically quantify phenotypic malignancies, including larval tumor burden, tumor overgrowth, tissue invasion, and systemic cachexia, driven by oncogenic Ras (RasV12) and distinct tumor suppressors. ART-D revealed three stages of tumorigenesis: initiation, promotion, and progression. Linear regression and longitudinal transcriptomics showed early-stage tumors feature co-activation of JAK/STAT, NF-κB/Toll, and MAPK pathways, while progression-stage malignancy is driven by Notch hyperactivation and Hippo inactivation. Multi-omics analyses combined with machine learning identified a conserved pathogenic network, coordinated activation of JNK, NF-κB/Toll, Notch, and Hippo pathways, shared across Drosophila and human RAS-driven malignancies. ART-D establishes Drosophila as a transformative platform for uncovering conserved oncogenic mechanisms, bridging fly and human cancer research, and providing a resource to inform precision strategies targeting stage-specific pathogenic networks in RAS-driven tumors.
 
-Multi-omics data analysis encompasses:
-  01Drosophila Bulk RNA-seq
-  02Drosophila Bulk ATAC-seq
-  03Human cancer scRNA-seq
-  04Human cancer Machine learning
+Multi-omics data analysis encompasses: 01Drosophila Bulk RNA-seq; 02Drosophila Bulk ATAC-seq; 03Human cancer scRNA-seq; 04Human cancer bulk RNA-seq and Survival data
+
+For more information, please read our paper: Uncovering Evolutionarily Conserved Oncogenic Mechanisms with ART-D: Cross-Species Insights from Drosophila to Humans.
+
+The sequencing data can be downloaded freely, and codes developed for this study are provided.
+SRA:https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1209517/
