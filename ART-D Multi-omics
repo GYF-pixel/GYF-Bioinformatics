@@ -1,0 +1,7 @@
+Multi-omics data encompasses:
+1. Drosophila Ras-driven tumor model bulk RNA-seq data at different time points
+2. Drosophila Ras-driven tumor model bulk ATAC-seq data at different time points
+3. TCGA and GTEx gene expression data for pan-cancer evaluation
+4. CBioProtal gene mutation data for pan-cancer evaluation
+5. TCGA patient clinical data
+6. Human cancer scRNA-seq data
