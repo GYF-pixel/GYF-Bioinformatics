@@ -7,4 +7,4 @@ Multi-omics data analysis encompasses: 01Drosophila Bulk RNA-seq; 02Drosophila B
 For more information, please read our paper: Uncovering Evolutionarily Conserved Oncogenic Mechanisms with ART-D: Cross-Species Insights from Drosophila to Humans.
 
 The sequencing data can be downloaded freely, and codes developed for this study are provided.
-SRA:https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1209517/
+https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1209517/
