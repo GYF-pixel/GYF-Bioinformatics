@@ -11,22 +11,24 @@ In this study, the longitudial phenotypic data profiling identified the stage-sp
 
 To delineat the underlying mechanisms and transformative value of ART-D, we perfomed the following data analysis.
 
-### 01 *Drosophila* Bulk RNA-seq
+### 1. *Drosophila* Bulk RNA-seq
 A transcriptomic atlas comprising *Drosophila* *WT* eye-antennal discs, *RasV12* benign tumors, and ten genetically defined *Drosophila* RasV12-driven tumors (DRTs) harboring deficiencies in *scrib*, *l(2)gl*, *Vps36*, *Syx7*, *Rabex-5*, *TSG101*, *fmt*, *emei*, *fry*, or *msn* at three different stages (initial/promotion/progression stage). The integrative analysis of phenotypic data and transcriptomic dynamic changes delineated the **Transcriptome Dynamics of Drosophila Ras-driven Tumor Subtypes**, revealing **a two-stage signaling paradigm governing tumor progression**.
 
-### 02 *Drosophila* Bulk ATAC-seq
+### 2. *Drosophila* Bulk ATAC-seq
 The integrative analysis of multi-omcs data sets of bulk RNA-seq and bulk ATAC-seq comprising *Drosophila* WT eye-antennal discs, Ras benign tumors, and RasV12-driven fry-deficient tumors at three different stages (initial/promotion/progression stage) implicated **JNK, NF-κB/Toll, Hippo, and Notch signaling as cooperative drivers** of tumorigenesis in *Ras*-activated, *fry*-deficient contexts.
 
-### 03 Human cancer WGS/WES, bulk RNA-seq, Survival, and scRNA-seq datasets
+### 3. Human cancer WGS/WES, bulk RNA-seq, Survival, and scRNA-seq datasets
 The integrative pan-cancer analysis of WGS/WES, bulk RNA-seq, survival time of cBioProtal/GTEx/TCGA samples validated the clinical relevance of *Drosophila* tumor suppressors in human cancers with *RAS* activation;   
 The analysis of scRNA-seq data from LUAD, PADC, COAD and SKCM patients consolidated the idea of JNK, NF-κB/Toll, Notch, and Hippo pathways co-operation to be **an evolutionarily conserved mechanism to drive tumorigenesis**.
 
-### 04 Human cancer machine learning modeling
+### 4. Human cancer machine learning modeling
 To explore the diagnostic value of tumor suppressors in DRTs for human cancers, we performed **117 combinations of machine learning algorithms to develop prognostic prediction models** tailored to different human KRAS/NRAS cancers. 
 
 ## **For more information, please read our paper:**  
 Cross-Species Insights from ART-D to Uncover Evolutionarily Conserved Oncogenic Mechanisms    
-https://doi.org/10.1101/2025.10.20.683390   
+https://doi.org/10.1101/2025.10.20.683390
+        
+           
 
 The sequencing data can be downloaded freely, and codes developed for this study are provided.
 https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1209517/
