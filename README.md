@@ -27,8 +27,9 @@ To explore the diagnostic value of tumor suppressors in DRTs for human cancers, 
 ## **For more information, please read our paper:**  
 Cross-Species Insights from ART-D to Uncover Evolutionarily Conserved Oncogenic Mechanisms    
 https://doi.org/10.1101/2025.10.20.683390
-        
-The gene count matrix after batch effect removal has been provided by newdata_filter_remove_pre_batheffect_removed.csv   
 
 The sequencing data can be downloaded freely, and codes developed for this study are provided.
-https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1209517/
+https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1209517/    
+        
+The gene count matrix after batch effect removal has been provided by    
+newdata_filter_remove_pre_batheffect_removed.csv   
